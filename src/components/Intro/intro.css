@@ -1,0 +1,41 @@
+#header {
+  width: 100%;
+}
+#size {
+  margin-top: 20%;
+  padding-left: 10%;
+}
+
+#element {
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#image {
+  margin-top: 15%;
+  margin-left: 15%;
+}
+.areeba {
+  color: yellowgreen;
+}
+.para {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#github {
+  margin-left: 10px;
+}
+/* @media screen and (max-width: 992px) {
+  #image {
+    flex-direction: row;
+  }
+}
+@media  screen and (max-width: 530px){
+    #size{
+    margin-top: 20%;
+    }
+}
+@media screen and (max-width:298px) {
+    #github{
+        margin-top: 2opx;
+    }
+} */
