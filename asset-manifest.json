@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-Portfolio/static/css/main.e30ad281.css",
+    "main.js": "/react-Portfolio/static/js/main.9e3e85b2.js",
+    "static/media/resume.png": "/react-Portfolio/static/media/resume.9fcacf39bcaaf4d2750a.png",
+    "static/media/music.PNG": "/react-Portfolio/static/media/music.db4d0b01e96d7c2b3f61.PNG",
+    "static/media/stopwatch.PNG": "/react-Portfolio/static/media/stopwatch.ea36bbc8127e54eb93eb.PNG",
+    "static/media/about1.png": "/react-Portfolio/static/media/about1.8aa5b352158860d0688c.png",
+    "static/media/skills4.png": "/react-Portfolio/static/media/skills4.c806c75f734c3281e6e2.png",
+    "static/media/experience1.png": "/react-Portfolio/static/media/experience1.88ab188aa1d3a403fdb2.png",
+    "static/media/areeba logo 1.jpg": "/react-Portfolio/static/media/areeba logo 1.f7f96ffdaf176b520999.jpg",
+    "static/media/education1.png": "/react-Portfolio/static/media/education1.d602ff6a666353b3eae5.png",
+    "index.html": "/react-Portfolio/index.html",
+    "main.e30ad281.css.map": "/react-Portfolio/static/css/main.e30ad281.css.map",
+    "main.9e3e85b2.js.map": "/react-Portfolio/static/js/main.9e3e85b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30ad281.css",
+    "static/js/main.9e3e85b2.js"
+  ]
+}
