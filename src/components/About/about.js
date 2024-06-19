@@ -40,6 +40,7 @@ const About = () => {
               <h3>Skills</h3>
               <ul className='hidden'>
                 <li>HTML CSS, JAVASCRIPT</li>
+                <li>React JS</li>
                 <li>WordPress</li>
                 <li>Arduino</li>
                 <li>C++</li>
